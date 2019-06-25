@@ -32,4 +32,7 @@ operate success!--操作成功
 
 分享链接: https://pan.baidu.com/s/1AQKLJTXc-PAOCXhjmWoWGg 提取码: da3h 
 压缩包密码：https://www.xiaocifang.com/i/OYdb5fdfdeXFb
+ 程序使用说明：
+          操作系统必须是oscent，压缩包内直接是可执行文件，它依赖压缩包内的两个配置文件，其中一个config文件需要配置好
+          海康和本地平台的pId，端口号，ip地址。另外一个不用动。
 有事联系QQ：1075228562
